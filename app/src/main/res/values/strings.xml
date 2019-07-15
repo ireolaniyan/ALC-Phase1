@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_message">Welcome To ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="profile_image_description">Profile image</string>
+    <string name="full_name">Ire Olaniyan</string>
+    <string name="track_label">Track:</string>
+    <string name="track_title">Android</string>
+    <string name="country_label">Country:</string>
+    <string name="country_name">Nigeria</string>
+    <string name="email_label">Email:</string>
+    <string name="email">ireolaniyan7@gmail.com</string>
+    <string name="phone_label">Phone:</string>
+    <string name="phone_number">+2348034618972</string>
+</resources>
